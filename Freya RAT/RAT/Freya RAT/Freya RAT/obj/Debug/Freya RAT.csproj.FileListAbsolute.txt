@@ -1,0 +1,22 @@
+C:\Users\ygzat\Desktop\RAT\Freya RAT\Freya RAT\bin\Debug\Freya RAT.exe.config
+C:\Users\ygzat\Desktop\RAT\Freya RAT\Freya RAT\bin\Debug\Freya RAT.exe
+C:\Users\ygzat\Desktop\RAT\Freya RAT\Freya RAT\bin\Debug\Freya RAT.pdb
+C:\Users\ygzat\Desktop\RAT\Freya RAT\Freya RAT\obj\Debug\Freya RAT.csproj.AssemblyReference.cache
+C:\Users\ygzat\Desktop\RAT\Freya RAT\Freya RAT\obj\Debug\Freya RAT.csproj.SuggestedBindingRedirects.cache
+C:\Users\ygzat\Desktop\RAT\Freya RAT\Freya RAT\obj\Debug\Freya_RAT.Form1.resources
+C:\Users\ygzat\Desktop\RAT\Freya RAT\Freya RAT\obj\Debug\Freya_RAT.Properties.Resources.resources
+C:\Users\ygzat\Desktop\RAT\Freya RAT\Freya RAT\obj\Debug\Freya RAT.csproj.GenerateResource.cache
+C:\Users\ygzat\Desktop\RAT\Freya RAT\Freya RAT\obj\Debug\Freya RAT.csproj.CoreCompileInputs.cache
+C:\Users\ygzat\Desktop\RAT\Freya RAT\Freya RAT\obj\Debug\Freya RAT.exe
+C:\Users\ygzat\Desktop\RAT\Freya RAT\Freya RAT\obj\Debug\Freya RAT.pdb
+C:\Users\ygzat\Desktop\Rat yedek\RAT\Freya RAT\Freya RAT\bin\Debug\Freya RAT.exe.config
+C:\Users\ygzat\Desktop\Rat yedek\RAT\Freya RAT\Freya RAT\bin\Debug\Freya RAT.exe
+C:\Users\ygzat\Desktop\Rat yedek\RAT\Freya RAT\Freya RAT\bin\Debug\Freya RAT.pdb
+C:\Users\ygzat\Desktop\Rat yedek\RAT\Freya RAT\Freya RAT\obj\Debug\Freya RAT.csproj.AssemblyReference.cache
+C:\Users\ygzat\Desktop\Rat yedek\RAT\Freya RAT\Freya RAT\obj\Debug\Freya RAT.csproj.SuggestedBindingRedirects.cache
+C:\Users\ygzat\Desktop\Rat yedek\RAT\Freya RAT\Freya RAT\obj\Debug\Freya_RAT.Form1.resources
+C:\Users\ygzat\Desktop\Rat yedek\RAT\Freya RAT\Freya RAT\obj\Debug\Freya_RAT.Properties.Resources.resources
+C:\Users\ygzat\Desktop\Rat yedek\RAT\Freya RAT\Freya RAT\obj\Debug\Freya RAT.csproj.GenerateResource.cache
+C:\Users\ygzat\Desktop\Rat yedek\RAT\Freya RAT\Freya RAT\obj\Debug\Freya RAT.csproj.CoreCompileInputs.cache
+C:\Users\ygzat\Desktop\Rat yedek\RAT\Freya RAT\Freya RAT\obj\Debug\Freya RAT.exe
+C:\Users\ygzat\Desktop\Rat yedek\RAT\Freya RAT\Freya RAT\obj\Debug\Freya RAT.pdb

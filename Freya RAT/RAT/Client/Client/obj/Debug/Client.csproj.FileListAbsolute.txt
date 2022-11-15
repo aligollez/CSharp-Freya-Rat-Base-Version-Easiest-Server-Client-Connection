@@ -1,0 +1,18 @@
+C:\Users\ygzat\Desktop\RAT\Client\Client\bin\Debug\Client.exe
+C:\Users\ygzat\Desktop\RAT\Client\Client\bin\Debug\Client.pdb
+C:\Users\ygzat\Desktop\RAT\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\ygzat\Desktop\RAT\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\ygzat\Desktop\RAT\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\ygzat\Desktop\RAT\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\ygzat\Desktop\RAT\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\ygzat\Desktop\RAT\Client\Client\obj\Debug\Client.exe
+C:\Users\ygzat\Desktop\RAT\Client\Client\obj\Debug\Client.pdb
+C:\Users\ygzat\Desktop\Rat yedek\RAT\Client\Client\bin\Debug\Client.exe
+C:\Users\ygzat\Desktop\Rat yedek\RAT\Client\Client\bin\Debug\Client.pdb
+C:\Users\ygzat\Desktop\Rat yedek\RAT\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\ygzat\Desktop\Rat yedek\RAT\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\ygzat\Desktop\Rat yedek\RAT\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\ygzat\Desktop\Rat yedek\RAT\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\ygzat\Desktop\Rat yedek\RAT\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\ygzat\Desktop\Rat yedek\RAT\Client\Client\obj\Debug\Client.exe
+C:\Users\ygzat\Desktop\Rat yedek\RAT\Client\Client\obj\Debug\Client.pdb
